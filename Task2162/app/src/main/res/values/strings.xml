@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hello">Hello, IT Samsung Academy</string>
+    <string name="italic">Italic</string>
+    <string name="change">Change</string>
+    <string name="bold">Bold</string>
+</resources>
